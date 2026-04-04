@@ -4,7 +4,7 @@ userstyle/css to fix title duplication for ://flags `force-dark-mode`
 
 # Installation
 You have to install Stylus and then click on the install link below.
-`**[Intall directly with $${\color{green}Stylus}$$](https://github.com/ancandi/Docs-Dark-Mode-Title-Fix/raw/refs/heads/main/docs-darmode-title-fix.user.styl)**`
+`[Intall directly with [$${\color{green}Stylus}$$]](https://github.com/ancandi/Docs-Dark-Mode-Title-Fix/raw/refs/heads/main/docs-darmode-title-fix.user.styl)`
 <br>
 
 # Other ways to install this userstyle
