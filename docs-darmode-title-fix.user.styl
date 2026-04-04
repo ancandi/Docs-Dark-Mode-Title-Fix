@@ -1,0 +1,54 @@
+/* ==UserStyle==
+@name         Google Docs - Dark Mode Title Fix
+@version      20260404.10.17
+@namespace    github.com/ancandi
+@description  userstyle/css to fix title duplication for ://flags `force-dark-mode`
+@author       ancandi
+@license      CC-BY-SA-4.0
+==/UserStyle== */
+
+@-moz-document domain("docs.google.com") {
+	/* KEEP ORIGINAL LAYOUT */
+	#input-wrapper,
+	.docs-title-input-wrapper {
+		position: relative !important;
+		z-index: 1 !important;
+		background: transparent !important;
+		transform: translateY(2px) !important;
+	}
+
+	#input-wrapper:focus-within,
+	.docs-title-input-wrapper:focus-within,
+	.docs-title-input-wrapper:has(input:focus),
+	#input-wrapper:has(input:focus) {
+		transform: translateY(0px) !important;
+	}
+
+	/* MASK */
+	#input-wrapper::after,
+	.docs-title-input-wrapper::after {
+		content: "" !important;
+		position: absolute !important;
+
+		inset: 0 !important;
+
+		background: #1e1f21 !important;
+
+		z-index: 0 !important;
+		pointer-events: none !important;
+
+		transform: translateZ(0) !important;
+		will-change: transform !important;
+	}
+
+	/* KEEP TEXT ABOVE MASK */
+	.docs-title-input,
+	.docs-title-input-label-inner,
+	#input-wrapper input {
+		position: relative !important;
+		z-index: 1 !important;
+
+		background: transparent !important;
+		text-shadow: none !important;
+	}
+}
