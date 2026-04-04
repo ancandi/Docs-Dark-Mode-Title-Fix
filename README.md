@@ -1,9 +1,9 @@
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/ancandi/Docs-Dark-Mode-Title-Fix/refs/heads/main/beforeafter.png" width="100%"/>
 
 # Docs-Dark-Mode-Title-Fix
 Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
+
+<img src="https://raw.githubusercontent.com/ancandi/Docs-Dark-Mode-Title-Fix/refs/heads/main/beforeafter.png" width="100%"/>
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install_directly_with-Stylus-116b59.svg?style=for-the-badge&logo=stylus)](https://raw.githubusercontent.com/ancandi/Docs-Dark-Mode-Title-Fix/refs/heads/main/docs-darmode-title-fix.user.styl)
 
