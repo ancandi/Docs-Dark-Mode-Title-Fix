@@ -14,7 +14,9 @@ Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
 ## 🛠 Installation
 1. Install the [Stylus browser extension](https://add0n.com/stylus.html).
 2. Click the **green button above** to install the fix directly.
-
+   
+> Notes:
+> This only works assuming that you enabled the ://flag in your browser labelled, (#enable-force-dark).
 
 ## 📁 Other ways to install
 For userstyle managers other than Stylus or a custom-compiled version, please refer to the source code or use your manager's "Import" function with the raw URL.
