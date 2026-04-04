@@ -20,9 +20,3 @@ For userstyle managers other than Stylus or a custom-compiled version, please re
 Code released under the [MIT License](https://github.com/ancandi/Docs-Dark-Mode-Title-Fix/blob/main/LICENSE).
 
 ---
-
-### Inspiration & Credits
-This project layout was inspired by the **Dark-WhatsApp** project.
-
-* **Features:** Fixes annoying title duplication when using high-contrast or forced dark modes in Chromium-based browsers.
-* **Contribute:** Feel free to open an issue or a pull request if you find more pages that need fixing!
