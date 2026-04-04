@@ -18,5 +18,3 @@ For userstyle managers other than Stylus or a custom-compiled version, please re
 
 ## 📜 License
 Code released under the [MIT License](https://github.com/ancandi/Docs-Dark-Mode-Title-Fix/blob/main/LICENSE).
-
----
