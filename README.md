@@ -1,4 +1,6 @@
 <div align="center">
+  
+#+HTML: <img src="https://raw.githubusercontent.com/ancandi/Docs-Dark-Mode-Title-Fix/refs/heads/main/beforeafter.png" width="100%"/>
 
 # Docs-Dark-Mode-Title-Fix
 Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
