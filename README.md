@@ -1,6 +1,6 @@
 <div align="center">
 
-# Docs-Dark-Mode-Title-Fix
+# Google Docs Dark Mode Title Fix
 Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install_directly_with-Stylus-116b59.svg?style=for-the-badge&logo=stylus)](https://raw.githubusercontent.com/ancandi/Docs-Dark-Mode-Title-Fix/refs/heads/main/docs-darmode-title-fix.user.styl)
@@ -13,7 +13,7 @@ Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
 
 ## 🛠 Installation
 1. Install the [Stylus browser extension](https://add0n.com/stylus.html). (downloads found top right)
-2. Click the **green button above** to install the fix directly.
+2. Click the **install button above** to install the fix directly.
    
 > Note:
 > This only works assuming that you enabled the ://flag in your browser labelled, `(#enable-force-dark).`
