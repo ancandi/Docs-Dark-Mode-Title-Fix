@@ -16,7 +16,7 @@ Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
 2. Click the **install button above** to install the fix directly.
    
 > Note:
-> This only works assuming that you enabled the ://flag in your browser labelled, `(#enable-force-dark).`
+> This only works assuming that you enabled the ://flag in your browser labelled, `(#enable-force-dark).`  You may need to change the background color of the /* mask */ section with what your actual docs bg-color is.
 
 ## 📁 Other ways to install
 For userstyle managers other than Stylus or a custom-compiled version, please refer to the source code or use your manager's "Import" function with the raw URL.
