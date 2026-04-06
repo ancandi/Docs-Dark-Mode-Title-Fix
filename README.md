@@ -18,10 +18,10 @@ Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
 > Note:
 > This works, assuming you enabled the ://flag in your browser labelled, `(#enable-force-dark).`
 
-Patch #1 — 4/6/2026:
-made adaptive to bg-color, should work better (hopefully)
-Patch #2 — 4/6/2026:
-newest simple fix method.
+> Patch #1 — 4/6/2026:
+> made adaptive to bg-color, should work better (hopefully)
+> Patch #2 — 4/6/2026:
+> newest simple fix method.
 
 ## 📁 Other ways to install
 For userstyle managers other than Stylus or a custom-compiled version, please refer to the source code or use your manager's "Import" function with the raw URL.
