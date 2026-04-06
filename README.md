@@ -20,6 +20,7 @@ Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
 
 > Patch #1 — 4/6/2026:
 > made adaptive to bg-color, should work better (hopefully)
+
 > Patch #2 — 4/6/2026:
 > newest simple fix method.
 
