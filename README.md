@@ -1,6 +1,6 @@
 <div align="center">
 
-# Docs Dark Mode Title Fix [![UserStyle.World]](https://userstyles.world/style/27438)
+# Docs Dark Mode Title Fix [UserStyle.World](https://userstyles.world/style/27438)
 Userstyle/CSS to fix title duplication for `chrome://flags` force-dark-mode.
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install_directly_with-Stylus-116b59.svg?style=for-the-badge&logo=stylus)](https://raw.githubusercontent.com/ancandi/Docs-Dark-Mode-Title-Fix/refs/heads/main/docs-darkmode-title-fix.user.styl)
